@@ -1,5 +1,5 @@
 """
-NOTE: To use this script, you must first execute user.py to write data to the database
+NOTE: To use this script, you must first execute users.py to write data to the database
 """
 import datetime
 
